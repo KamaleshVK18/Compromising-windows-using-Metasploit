@@ -81,7 +81,7 @@ http://192.168.56.102/fun.exe  ( Replace IP address appropriately)
 The file "kvk.exe" downloads. 
 ## OUTPUT:
 
-<img width="1919" height="1079" alt="Screenshot 2026-02-14 131800" src="https://github.com/user-attachments/assets/0e5a7ba1-ebd2-4d80-9ccd-16d12878fb82" />
+<img width="1320" height="755" alt="image" src="https://github.com/user-attachments/assets/1595bd30-0ae8-49ff-800e-7b6486d4bc14" />
 
 Bypass any warning boxes, double-click the file, and allow it to run.
 ## OUTPUT:
