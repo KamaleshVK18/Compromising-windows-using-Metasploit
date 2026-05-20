@@ -86,7 +86,7 @@ The file "kvk.exe" downloads.
 Bypass any warning boxes, double-click the file, and allow it to run.
 ## OUTPUT:
 
-<img width="1919" height="1079" alt="Screenshot 2026-02-14 131654" src="https://github.com/user-attachments/assets/ae9ed50f-32b7-4c0c-bb00-5c841f71a2cc" />
+<img width="1320" height="755" alt="image" src="https://github.com/user-attachments/assets/1595bd30-0ae8-49ff-800e-7b6486d4bc14" />
 
 
 
