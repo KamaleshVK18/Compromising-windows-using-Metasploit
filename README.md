@@ -85,6 +85,9 @@ The file "kvk.exe" downloads.
 
 Bypass any warning boxes, double-click the file, and allow it to run.
 ## OUTPUT:
+<img width="1185" height="807" alt="Screenshot 2026-05-20 094446" src="https://github.com/user-attachments/assets/ecd9369a-2d3d-4ae3-beee-b8d5d124580e" />
+
+
 
 
 On kali/parrot give the command exploit
